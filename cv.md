@@ -9,3 +9,15 @@
 ***
 ### About me ###
 * **Age:**  35 y.o.  
+* **Edication:** Penza State University of Architecture and Construction
+    + _construction of roads_
+    + _economics in construction_
+
+* **Personal qualities:**
+    + Versatile
+    + Discipline
+    + Self-control 
+
+* **Interests**
+    + Travel
+    + Collecting scale cars
