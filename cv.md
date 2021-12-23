@@ -21,3 +21,21 @@
 * **Interests**
     + Travel
     + Collecting scale cars
+My goal is to gain knowledge in the field of front-end development.
+***
+### Code Examples ###
+```
+function multiply(a, b) {
+  return a * b
+} 
+```
+***
+### Language ###
+* **Russian** Native
+* **English** - A2 
+
+***
+### Skils ###
+* HTML
+* CSS
+* CorelDRAW
