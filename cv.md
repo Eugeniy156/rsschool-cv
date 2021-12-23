@@ -1,4 +1,6 @@
 ![image photo](https://sun1-25.userapi.com/s/v1/if1/9LmFWrZpb_b7Qu6BvJ8NFyMLVFIl-DP51RkG2xm1xsNAPIFet-ZXB1hAW_m-c5KfZKoq07tV.jpg?size=200x200&quality=96&crop=559,169,1531,1531&ava=1 "Eugeniy Zhelonkin")  
+ 
+ 
  ## Eugeniy Zhelonkin ##
 ---
 ### My contact info: ###
@@ -13,6 +15,8 @@
     + _construction of roads_
     + _economics in construction_
 
+    My goal is to gain knowledge in the field of front-end development.
+
 * **Personal qualities:**
     + Versatile
     + Discipline
@@ -21,7 +25,7 @@
 * **Interests**
     + Travel
     + Collecting scale cars
-My goal is to gain knowledge in the field of front-end development.
+
 ***
 ### Code Examples ###
 ```
