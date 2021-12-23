@@ -2,7 +2,7 @@
  
  
  ## Eugeniy Zhelonkin ##
----
+***
 ### My contact info: ###
 * **Phone:** 89272879509
 * **E-mail:** zhelonkine@gmail.com
@@ -14,6 +14,7 @@
 * **Edication:** Penza State University of Architecture and Construction
     + _construction of roads_
     + _economics in construction_
+
 
     My goal is to gain knowledge in the field of front-end development.
 
@@ -35,7 +36,7 @@ function multiply(a, b) {
 ```
 ***
 ### Language ###
-* **Russian** Native
+* **Russian** - Native
 * **English** - A2 
 
 ***
