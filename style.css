@@ -33,30 +33,50 @@
 .main{
     background-color: darksalmon;
     display: flex;
-    flex-direction: column;
-    order: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-basis: 500px;
+    flex-grow: 1;
+    
 }
 .fio {
     width: 40%;
+    height: 40%;
     background-color: aqua;
     display: flex;
-    flex-flow: column;
+    flex-flow: column wrap;
     align-items: center;
     justify-content: center;
 }
 .contacts {
-    width: 40%;
+    width: 60%;
+    height: 60%;
     background-color: rgb(224, 133, 20);
 }
 .language {
     width: 40%;
+    height: 15%;
     background-color: rgb(74, 20, 224);
 }
 .aboutme{
     width: 60%;
     background-color: blueviolet;
 }
-.hobbies {
-    width: 60%;
+.skills {
+    width: 40%;
     background-color: rgb(61, 204, 80);
+}
+.footer {
+    background-color: coral;
+    height: 15%;
+}
+.headings {
+    background-color: red ;
+    display: flex;
+    height: 45px;
+    width: 400px;
+    margin: 0px;
+    border-radius: 0% 25%  0%;
+    text-align:justify
+    
 }
