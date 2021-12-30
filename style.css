@@ -1,1 +1,31 @@
-.css
+.foto {
+    border: 5px solid red;
+    border-radius: 50%;
+    margin: 10px 0px 0px 30px;
+    height: 220px;
+    }
+
+.header {
+    background-color: rgb(102, 3, 3);
+    height: 60px;
+}
+
+.navigation {
+    display: flex;
+    align-content: center;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 15px 0px 15px 15px;
+    justify-content: flex-end;
+   
+    
+    }
+    .navigation :hover {
+        color: deepskyblue;
+    }
+.nav {
+    width: 150px;
+    height: 30px;
+    border-right: 3px solid rgb(178, 34, 34);
+    text-align: center;
+}
